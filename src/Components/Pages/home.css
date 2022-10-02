@@ -1,0 +1,327 @@
+.homepage{
+    /*width:1140px;*/
+    width: 100%;
+    margin:0 auto;
+    
+}
+
+.section-1{
+    width: 100%;
+    display:grid;
+    overflow: hidden;
+}
+
+.section-2{
+    float:left;
+    width: 100%;
+    text-align: center;
+    padding-top:50px;
+    color:   #46094f;
+    background-image:url(../../img/bg_grey_2.jpg);
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+    z-index: 2;
+    position:relative;
+}
+
+.section-2 p{
+    width: 500px;
+    margin:0 auto;
+    margin-top:20px;
+}
+
+.section-2 input{
+    width: 500px;
+    background:#eee;
+    padding:  15px;
+    font-size: 18px;
+    border-radius: 20px;
+    border:  1px solid #eee;
+    margin-top: 30px;
+    background-image: url(../../img/search.png);
+    background-repeat: no-repeat;
+    background-position:right;
+    background-color:#eee;
+    
+}
+
+.section-3{
+    float:left;
+    width: 100%;
+    z-index: 1;
+    position:relative;
+}
+
+.image{
+    float:left;
+    width: 65%;
+    margin-top: -90px;
+}
+
+.text{
+    float:right;
+    width: 30%;
+    text-align: left;
+    color:#46094f;
+    padding-top: 30%;
+    padding-right: 50px;
+}
+
+.image img{
+    width: 100%;
+}
+
+.logo{
+    padding-top: 100px;
+    padding-left: 150px;
+    /*background-image:url(../img/bg_grey_2.jpg);
+    background-position:  right bottom;
+    background-repeat: no-repeat;*/
+    grid: 1fr;
+    grid-column: 1/3;
+    grid-row: 1/3
+}
+
+.banner1{
+    grid: 1fr;
+    overflow:hidden;
+    grid-column: 1/3;
+    grid-row: 1/3;
+}
+
+.banner1 img{
+    width: 100%;
+}
+
+.back-to-school{
+    float:left;
+    width: 100%;
+    text-align:center;
+    
+}
+
+h2{
+    text-transform:uppercase;
+    font-size: 35px;
+    font-weight: bold;
+}
+p{
+    font-size: 16px;
+}
+
+.section-4{
+    float:left;
+    width: 100%;
+    display:grid;
+    color:#58c222;
+    margin-top: 300px;
+}
+
+.section-4 .text-4{
+    color: #58c222;
+    padding-top: 50px;
+    grid: 1fr;
+    
+    padding-left: 150px;
+    grid-column: 1/3;
+    grid-row: 1/3;
+    position:relative;
+    z-index: 2;
+}
+
+.section-4 .text-4 p {
+    width: 300px;
+}
+
+.section-4 .image-4 {
+    grid: 1fr;
+    grid-column: 1/3;
+    grid-row: 1/3;
+    position: relative;
+    z-index: 1;
+} 
+
+.section-4 .image-4 img{
+    float:right;
+    width: 90%;
+}
+
+.section-5{
+    float:left;
+    width: 100%;
+    background-image: url(../../img/bg_grey_1.jpg);
+    background-repeat: no-repeat;
+    background-position:bottom left;
+}
+
+.section-5 img {
+    width: 100%;
+    float:right;
+}
+
+.section-6{
+    float:left;
+    width: 100%;
+    color: #4351bc;
+    text-align: center;
+    margin-top: 200px;
+    background-image: url(../../img/bg_grey_2.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    padding-bottom: 300px;
+}
+
+.section-6 .sect-left{
+    float:left;
+    width: 50%;
+    padding-left:30%;
+}
+
+.section-6 .sect-left h3, .section-6 .sect-right h3{
+    font-size: 22px;
+}
+
+.section-6 .sect-left p, .section-6 .sect-right p{
+    font-size: 12px;
+}
+
+.section-6 .sect-left img{
+    margin: 100px 0;
+}
+
+.section-6 .sect-right{
+    float:left;
+    width: 30%;
+}
+.section-6 .sect-right > h3{
+    margin-top: 100px;
+}
+.section-6 .sect-right > p{
+    margin:0 auto;
+    margin-bottom: 100px;
+    width: 70%;
+    
+}
+
+.section-7{
+    float:left;
+    width: 100%;
+    margin-top: -200px;
+    
+}
+
+.section-7 img{
+    width: 100%;
+    float:left;
+}
+
+.section-8{
+    float:left;
+    width: 100%;
+    background-color: #ffe240;
+    padding-left: 15%;
+    color:#46094f;
+}
+
+.section-8 .contact-us{
+    float:left; 
+    width: 300px;
+    margin-top: -100px;
+}
+
+.section-8 .contact-us > h3{
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+
+.section-8 .contact-us > p{
+    font-size: 12px;
+}
+
+.section-8 .links {
+    float:left; 
+    width: 300px;
+    margin-top: -150px;
+    margin-left: 300px;
+    text-align: bottom;
+    
+}
+
+.section-8 .links a{
+    text-decoration:none;
+    float:left;
+    width: 100%;
+    font-size: 16px;
+    color: #46094f;
+    padding-top: 10px;
+}
+
+.section-8 .links a:hover{
+    color:#58c222;
+}
+
+.footer-border{
+    width: 80%;
+    height: 10px;
+    border-bottom: 2px solid #46094f;
+    float: left;
+   margin-bottom: 100px;
+}
+/*
+<div className="fixedMenu">
+        <div className="MenuWrapper">
+          <a href="#">Home</a>
+          <a href="#">About</a>
+          <a href="#">Menu</a>
+          <a href="#">Contact</a>
+        </div>
+        <div className="socialIcons">
+          <a href="#"><img src={Instagram} alt="" /></a>
+          <a href="#"><img src={Facebook} alt="" /></a>
+          <a href="#"><img src={Twitter} alt="" /></a>
+          <a href="#"><img src={Phone} alt="" /></a>
+        </div>
+      </div>
+
+      reference: https://www.w3schools.com/cssref/playdemo.asp?filename=playcss_align-content
+*/
+
+@media screen and (max-width: 860px) {
+    .homepage{
+        width: 100%;
+        overflow: hidden;
+    }
+    .banner1 {
+      grid-column: 1/3;
+      grid-row: 2/3;
+    }
+    .image{
+        width: 80%;
+
+    } 
+    .text{
+        width: 80%;
+        margin-top: -300px;
+        text-align: center;
+    }
+    .section-2{
+        overflow:hidden;
+        width: 100%;
+    }
+    .section-4 .text-4{
+        grid-column: 1/-1;
+        grid-row: 3/3;
+    }
+    .section-4 .image-4{
+       width: 100%;
+       margin-top: -300px; 
+    }
+  
+  }
+
+  @media screen and (max-width: 590px) {
+        .section-8{
+            margin-top: -10%;
+        }
+  }
