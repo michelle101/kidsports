@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/kidsports/Home/static/css/main.522b796d.css",
-    "main.js": "/kidsports/Home/static/js/main.8f25a18c.js",
-    "static/media/banner1.jpg": "/kidsports/Home/static/media/banner1.1c4723ea3060d3736d30.jpg",
-    "static/media/gothic.eot": "/kidsports/Home/static/media/gothic.46d85c87eeefc2a8f4a1.eot",
-    "static/media/gothic.ttf": "/kidsports/Home/static/media/gothic.23a9eb4cd03345b8b40f.ttf",
-    "static/media/banner3.jpg": "/kidsports/Home/static/media/banner3.c5419a1eb0654a2e252c.jpg",
-    "static/media/banner2.jpg": "/kidsports/Home/static/media/banner2.67ab852550a7b04c914f.jpg",
-    "static/media/gothic.woff": "/kidsports/Home/static/media/gothic.c79185d96f24335e2f6d.woff",
-    "static/media/limit-your-mind.png": "/kidsports/Home/static/media/limit-your-mind.cadf84fa232faef47787.png",
-    "static/media/bg-footer.png": "/kidsports/Home/static/media/bg-footer.346a13cc4b07ae296d50.png",
-    "static/media/bg_grey_2.jpg": "/kidsports/Home/static/media/bg_grey_2.f3b27c0d5502cc4aeb5f.jpg",
-    "static/media/bg_grey_1.jpg": "/kidsports/Home/static/media/bg_grey_1.15bee465464268107757.jpg",
-    "static/media/back-to-sch.png": "/kidsports/Home/static/media/back-to-sch.5e0efeac7d9f259e29a7.png",
-    "static/media/miniature_ruler.jpg": "/kidsports/Home/static/media/miniature_ruler.ab9b0f3debfb270077bf.jpg",
-    "static/media/logo.png": "/kidsports/Home/static/media/logo.1b09813ffbdc0b735edc.png",
-    "static/media/miniature_rocket.jpg": "/kidsports/Home/static/media/miniature_rocket.84cda3574d6593aa576b.jpg",
-    "static/media/miniature_stars.png": "/kidsports/Home/static/media/miniature_stars.e49beed9cf83acc82984.png",
-    "static/media/search.png": "/kidsports/Home/static/media/search.67203ac7abb34914bc96.png",
-    "index.html": "/kidsports/Home/index.html",
-    "main.522b796d.css.map": "/kidsports/Home/static/css/main.522b796d.css.map",
-    "main.8f25a18c.js.map": "/kidsports/Home/static/js/main.8f25a18c.js.map"
+    "main.css": "/kidsports/static/css/main.57a1b495.css",
+    "main.js": "/kidsports/static/js/main.3a698917.js",
+    "static/media/banner1.jpg": "/kidsports/static/media/banner1.1c4723ea3060d3736d30.jpg",
+    "static/media/gothic.eot": "/kidsports/static/media/gothic.46d85c87eeefc2a8f4a1.eot",
+    "static/media/gothic.ttf": "/kidsports/static/media/gothic.23a9eb4cd03345b8b40f.ttf",
+    "static/media/banner3.jpg": "/kidsports/static/media/banner3.c5419a1eb0654a2e252c.jpg",
+    "static/media/banner2.jpg": "/kidsports/static/media/banner2.67ab852550a7b04c914f.jpg",
+    "static/media/gothic.woff": "/kidsports/static/media/gothic.c79185d96f24335e2f6d.woff",
+    "static/media/limit-your-mind.png": "/kidsports/static/media/limit-your-mind.cadf84fa232faef47787.png",
+    "static/media/bg-footer.png": "/kidsports/static/media/bg-footer.346a13cc4b07ae296d50.png",
+    "static/media/bg_grey_2.jpg": "/kidsports/static/media/bg_grey_2.f3b27c0d5502cc4aeb5f.jpg",
+    "static/media/bg_grey_1.jpg": "/kidsports/static/media/bg_grey_1.15bee465464268107757.jpg",
+    "static/media/back-to-sch.png": "/kidsports/static/media/back-to-sch.5e0efeac7d9f259e29a7.png",
+    "static/media/miniature_ruler.jpg": "/kidsports/static/media/miniature_ruler.ab9b0f3debfb270077bf.jpg",
+    "static/media/logo.png": "/kidsports/static/media/logo.1b09813ffbdc0b735edc.png",
+    "static/media/miniature_rocket.jpg": "/kidsports/static/media/miniature_rocket.84cda3574d6593aa576b.jpg",
+    "static/media/miniature_stars.png": "/kidsports/static/media/miniature_stars.e49beed9cf83acc82984.png",
+    "static/media/search.png": "/kidsports/static/media/search.67203ac7abb34914bc96.png",
+    "index.html": "/kidsports/index.html",
+    "main.57a1b495.css.map": "/kidsports/static/css/main.57a1b495.css.map",
+    "main.3a698917.js.map": "/kidsports/static/js/main.3a698917.js.map"
   },
   "entrypoints": [
-    "static/css/main.522b796d.css",
-    "static/js/main.8f25a18c.js"
+    "static/css/main.57a1b495.css",
+    "static/js/main.3a698917.js"
   ]
 }
