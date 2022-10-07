@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kidsports/static/css/main.57a1b495.css",
-    "main.js": "/kidsports/static/js/main.3a698917.js",
+    "main.js": "/kidsports/static/js/main.bb0c2086.js",
     "static/media/banner1.jpg": "/kidsports/static/media/banner1.1c4723ea3060d3736d30.jpg",
     "static/media/gothic.eot": "/kidsports/static/media/gothic.46d85c87eeefc2a8f4a1.eot",
     "static/media/gothic.ttf": "/kidsports/static/media/gothic.23a9eb4cd03345b8b40f.ttf",
@@ -20,10 +20,10 @@
     "static/media/search.png": "/kidsports/static/media/search.67203ac7abb34914bc96.png",
     "index.html": "/kidsports/index.html",
     "main.57a1b495.css.map": "/kidsports/static/css/main.57a1b495.css.map",
-    "main.3a698917.js.map": "/kidsports/static/js/main.3a698917.js.map"
+    "main.bb0c2086.js.map": "/kidsports/static/js/main.bb0c2086.js.map"
   },
   "entrypoints": [
     "static/css/main.57a1b495.css",
-    "static/js/main.3a698917.js"
+    "static/js/main.bb0c2086.js"
   ]
 }
