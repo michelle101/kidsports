@@ -16,7 +16,7 @@ function NavBar() {
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
               <NavLink
-                to="/Home"
+                to="kidsports/"
                 className={({isActive})=> isActive && activeClassName}
                 onClick={handleClick}
               >
@@ -25,7 +25,7 @@ function NavBar() {
             </li>
             <li className="nav-item">
               <NavLink
-                to="/About"
+                to="kidsports/About"
                 className={({isActive})=> isActive && activeClassName}
                 onClick={handleClick}
               >
@@ -34,7 +34,7 @@ function NavBar() {
             </li>
             <li className="nav-item">
               <NavLink
-                to="/Blog"
+                to="kidsports/Blog"
                 className={({isActive})=> isActive && activeClassName}
                 onClick={handleClick}
               >
@@ -43,7 +43,7 @@ function NavBar() {
             </li>
             <li className="nav-item">
               <NavLink
-                to="/Contact"
+                to="kidsports/Contact"
                 className={({isActive})=> isActive && activeClassName}
                 onClick={handleClick}
               >
